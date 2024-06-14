@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# Wordle in ReactJS
+
+A simple ReactJS exercise to recreate the popular game Wordle. For local testing, you will need to provide the word to be the puzzle's target.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
